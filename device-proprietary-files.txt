@@ -50,6 +50,10 @@ vendor/lib/libmmcamera_sunny_f13s01l_eeprom.so
 vendor/lib/libmmcamera_ov8858.so
 vendor/lib/libmmcamera_s5k3m2.so
 
+# RIL
+vendor/lib64/liblqe.so
+vendor/lib64/libril-qc-radioconfig.so
+
 # Sensors
 bin/psensord
 vendor/lib64/libcalmodule_memsic.so
